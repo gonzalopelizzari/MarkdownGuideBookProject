@@ -6,7 +6,7 @@
   [Video sobre su biografía](https://www.youtube.com/watch?v=72s6NoDLaEg)
 
 
-![alt text](image-4.png)
+![alt text](image-4tf.png)
 
 Su importancia radica en que fue el primero en intentar dar una explicación racional del universo, buscando un principio fundamental (arjé) que subyaciera a todos los fenómenos naturales, en lugar de recurrir a explicaciones mitológicas o religiosas.
 
@@ -23,7 +23,7 @@ Su importancia radica en que fue el primero en intentar dar una explicación rac
 
 
 
-![alt text](image-3.png)
+![alt text](image-3tf.png)
 
 
 # Su Arjé: El Agua
@@ -37,7 +37,7 @@ La principal idea filosófica atribuida a Tales es que el agua es el arjé, el p
 
 -La tierra flota sobre el agua: Aunque esta idea pueda parecer primitiva hoy en día, algunos testimonios indican que Tales creía que la Tierra era un disco plano que flotaba sobre una extensión de agua.
 
-![alt text](image-1.png)
+![alt text](image-1tf.png)
 
 [definicion de arjé](https://es.wikipedia.org/wiki/Arch%C3%A9)
 
@@ -50,7 +50,7 @@ Tales de Mileto es reconocido por varias contribuciones clave:
 -Fundador de la Escuela de Mileto: Inició esta escuela filosófica, a la que pertenecieron Anaximandro y Anaxímenes, marcando el comienzo de la filosofía occidental y la búsqueda racional del arjé.
 
 -Ruptura con el Pensamiento Mítico: Su mayor logro fue intentar explicar el mundo a través de la observación y la razón, alejándose de las explicaciones mitológicas y religiosas hacia una indagación filosófica de la naturaleza.
-![alt text](image-2.png)
+![alt text](image-2tf.png)
 
 [Tales y mas filosofos importantes](https://www.britannica.com/topic/Greek-philosophy/The-seminal-thinkers-of-Greek-philosophy)
 
