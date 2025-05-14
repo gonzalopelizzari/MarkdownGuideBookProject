@@ -2,7 +2,7 @@
 ## Antigua grecia
 -Gonzalo Pelizzari , Tiago Farach, Bruno Cornejo
 
-![](./Pitagoras.md)
-![](./Parmenides2.md)
-![](./READMEtf.md)
+![pitagoras](./Pitagoras.md)
+![parmenides](./Parmenides2.md)
+![tales](./READMEtf.md)
 
