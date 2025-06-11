@@ -14,7 +14,7 @@
   - Descubrimientos en música (relación entre longitudes de cuerdas y notas).[texto](https://virtual.uptc.edu.co/ova/estadistica/docs/autores/pag/mat/Pitagoras9.asp.htm)
  - Influencia en el desarrollo del pensamiento lógico y matemático occidental.
   
-  ![alt](./img/nombre.png)
+  
 ## **Obras y enseñanzas pitagóricas**
  - Pitágoras no escribió obras, pero se le atribuyen muchas ideas difundidas por sus discípulos.
   - Temas: números perfectos, números irracionales, armonía, cosmología.
