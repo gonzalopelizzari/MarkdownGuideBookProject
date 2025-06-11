@@ -6,7 +6,7 @@
   [Video sobre su biografía](https://www.youtube.com/watch?v=72s6NoDLaEg)
 
 
-![alt text](tales-4tf.png)
+![alt text](image-4tf.png)
 
 Su importancia radica en que fue el primero en intentar dar una explicación racional del universo, buscando un principio fundamental (arjé) que subyaciera a todos los fenómenos naturales, en lugar de recurrir a explicaciones mitológicas o religiosas.
 
@@ -23,7 +23,7 @@ Su importancia radica en que fue el primero en intentar dar una explicación rac
 
 
 
-![alt text](image-3tf.png)
+![alt text](tales-3tf.png)
 
 
 # Su Arjé: El Agua
