@@ -6,7 +6,7 @@
   [Video sobre su biografía](https://www.youtube.com/watch?v=72s6NoDLaEg)
 
 
-![alt text]([image-4tf.png](https://github.com/gonzalopelizzari/MarkdownGuideBookProject/blob/main/foto/tales-3tf.png))
+![alt]([image-4tf.png](https://github.com/gonzalopelizzari/MarkdownGuideBookProject/blob/main/foto/tales-3tf.png))
 
 Su importancia radica en que fue el primero en intentar dar una explicación racional del universo, buscando un principio fundamental (arjé) que subyaciera a todos los fenómenos naturales, en lugar de recurrir a explicaciones mitológicas o religiosas.
 
